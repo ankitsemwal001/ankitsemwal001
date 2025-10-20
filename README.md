@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌌 Hey there, I’m Ankit Semwal<br><br>Computer Engineering Student | Developer | Tech Enthusiast<br>Passionate about building intelligent systems, automation tools, and creative web experiences.<br><br>I’m looking to collaborate on:<br>AI/ML projects (NLP, predictive modeling)<br>Open-source web apps using React, Node.js, or Express<br><br>currently I’m learning:<br>Advanced Deep Learning & LSTMs<br>TypeScript and scalable frontend architecture<br><br>💬 Ask me about<br>Python or front end development<br>Machine Learning & automation
+🌌 Hey there, I’m Ankit Semwal<br><br>Computer Engineering Student | Developer | Tech Enthusiast<br>Passionate about building intelligent systems, automation tools, and creative web experiences.<br><br>I’m looking to collaborate on:<br>AI/ML projects (NLP, predictive modeling)<br>Open-source web apps using React, Node.js, or Express<br>
 
 
 ## 🌐 Socials:
