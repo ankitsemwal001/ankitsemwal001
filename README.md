@@ -2,7 +2,7 @@
 🌌 Hey there, I’m Ankit Semwal<br><br>Computer Engineering Student | Developer | Tech Enthusiast<br>Passionate about building intelligent systems, automation tools, and creative web experiences.<br><br>I’m looking to collaborate on:<br>AI/ML projects (NLP, predictive modeling)<br>Open-source web apps using React, Node.js, or Express<br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="[https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"](https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif)"/>
 </p>
 
 
