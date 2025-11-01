@@ -13,7 +13,7 @@ I’m looking to collaborate on:
 - 🌐 Open-source web apps using React, Node.js, or Express  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN21iZ3dycnFpZmtodWFsY3B2ZzBvbzA5aDZmOHR0eWNwc245bHVpaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/37IzUsLdfChayL5uyA/giphy.gif" width="200" alt="social animation">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN21iZ3dycnFpZmtodWFsY3B2ZzBvbzA5aDZmOHR0eWNwc245bHVpaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/37IzUsLdfChayL5uyA/giphy.gif" width="300" alt="social animation">
 </p>
 
 ---
