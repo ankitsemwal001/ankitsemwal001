@@ -1,6 +1,10 @@
 # 💫 About Me:
 🌌 Hey there, I’m Ankit Semwal<br><br>Computer Engineering Student | Developer | Tech Enthusiast<br>Passionate about building intelligent systems, automation tools, and creative web experiences.<br><br>I’m looking to collaborate on:<br>AI/ML projects (NLP, predictive modeling)<br>Open-source web apps using React, Node.js, or Express<br>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ankit.semwal.9480) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ankit_semwal_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-semwal-9376a72ba) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitsemwal0884@gmail.com) 
