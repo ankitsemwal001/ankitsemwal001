@@ -1,6 +1,6 @@
 <!-- 🌟 Welcome Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00FFFF&center=true&vCenter=true&width=500&lines=👋+Welcome+to+My+GitHub!;I'm+Ankit+Semwal;Developer+|+AI+Enthusiast+|+Engineer">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00FFFF&center=true&vCenter=true&width=500&lines=👋+Welcome+to+My+GitHub!;I'm+Ankit+Semwal;Developer+|+Software+Engineer">
 </p>
 
 # 💫 About Me:
