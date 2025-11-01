@@ -13,15 +13,13 @@ I’m looking to collaborate on:
 - 🌐 Open-source web apps using React, Node.js, or Express  
 
 <p align="center">
-  <img src="">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN21iZ3dycnFpZmtodWFsY3B2ZzBvbzA5aDZmOHR0eWNwc245bHVpaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/37IzUsLdfChayL5uyA/giphy.gif" width="200" alt="social animation">
 </p>
 
 ---
 
 ## 🌐 Socials:
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN21iZ3dycnFpZmtodWFsY3B2ZzBvbzA5aDZmOHR0eWNwc245bHVpaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/37IzUsLdfChayL5uyA/giphy.gif" width="200" alt="social animation">
-</p>
+
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ankit.semwal.9480)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ankit_semwal_)
