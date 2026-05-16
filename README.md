@@ -1,6 +1,6 @@
 # Hi, I'm Ankit Semwal 👋
  
-Frontend Developer | B.Tech CSE Final Year | Rishikesh, Uttarakhand
+Frontend Developer
  
 I build responsive, real-world web applications and deploy them for actual users.  
 Currently looking for **Junior Frontend / Full Stack Developer** roles.
@@ -9,7 +9,7 @@ Currently looking for **Junior Frontend / Full Stack Developer** roles.
  
 ## 🚀 Live Projects
  
-**[GoRafts](https://gorafts.in)** — Rafting Booking Website  
+**[GoRafts](https://gorafts.netlify.app/)** — Rafting Booking Website  
 A fully responsive business website for a rafting company in Rishikesh. Customers can explore packages, view pricing, and contact the team directly.  
 `HTML` `CSS` `JavaScript` `Tailwind CSS` `Netlify`
  
@@ -21,7 +21,7 @@ Lead generation website for a yoga instructor. Features WhatsApp-based direct en
  
 ## 🛠️ Tech Stack
  
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), Tailwind CSS
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, React
 - **Backend:** Django (Python), MySQL
 - **Tools:** Git, GitHub, Netlify, VS Code
 - **Learning:** React.js, Node.js
