@@ -7,17 +7,6 @@ Currently looking for **Junior Frontend / Full Stack Developer** roles.
  
 ---
  
-## 🚀 Live Projects
- 
-**[GoRafts](https://gorafts.netlify.app/)** — Rafting Booking Website  
-A fully responsive business website for a rafting company in Rishikesh. Customers can explore packages, view pricing, and contact the team directly.  
-`HTML` `CSS` `JavaScript` `Tailwind CSS` `Netlify`
- 
-**[Yoga Instructor Platform](https://yogaplatform.netlify.app)** — Business Website  
-Lead generation website for a yoga instructor. Features WhatsApp-based direct enquiry system, scroll animations, and SEO optimization.  
-`HTML` `CSS` `JavaScript` `Netlify`
- 
----
  
 ## 🛠️ Tech Stack
  
