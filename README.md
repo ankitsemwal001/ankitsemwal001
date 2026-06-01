@@ -1,30 +1,76 @@
-# Hi, I'm Ankit Semwal 👋
- 
-Frontend Developer
- 
-I build responsive, real-world web applications and deploy them for actual users.  
-Currently looking for **Junior Frontend / Full Stack Developer** roles.
- 
+# Hi, I'm Ankit Semwal
+
+## Frontend & Full Stack Developer
+
+I build responsive, scalable web applications using modern web technologies and deploy them for real-world users.
+
+B.Tech in Computer Science & Engineering  
+Passionate about Web Development, Problem Solving, and Building User-Centric Applications  
+Currently seeking Junior Frontend Developer, React Developer, and Full Stack Developer opportunities.
+
 ---
- 
- 
+
 ## 🛠️ Tech Stack
- 
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, React
-- **Backend:** Django (Python), MySQL
-- **Tools:** Git, GitHub, Netlify, VS Code
-- **Learning:** React.js, Node.js
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Tailwind CSS
+- React.js
+
+### Backend
+- Django
+- Python
+- MySQL
+
+### Tools & Platforms
+- Git
+- GitHub
+- Netlify
+- VS Code
+
+### Currently Learning
+- Node.js
+- Express.js
+- REST APIs
+
 ---
- 
+
+## 🚀 Featured Projects
+
+### GoRafts – River Rafting Booking Platform
+- Developed a responsive rafting booking website.
+- Implemented dynamic UI using React and Tailwind CSS.
+- Integrated backend APIs for booking management.
+
+### Portfolio Website
+- Personal portfolio showcasing projects, skills, and experience.
+- Built with React and deployed on Netlify.
+
+### Additional Projects
+- Weather App
+- Task Manager
+- E-Commerce UI
+- More projects available in repositories below.
+
+---
+
 ## 📊 GitHub Stats
- 
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitsemwal001&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsemwal001&theme=dark&hide_border=true&layout=compact)
- 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitsemwal001&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsemwal001&layout=compact&theme=tokyonight&hide_border=true)
+
 ---
- 
+
 ## 🌐 Connect With Me
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-semwal-9376a72ba)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitsemwal0884@gmail.com)
+
+- LinkedIn: https://linkedin.com/in/ankit-semwal-9376a72ba
+- Email: ankitsemwal0884@gmail.com
+- GitHub: https://github.com/ankitsemwal001
+- Portfolio: Add Your Portfolio URL Here
+
+---
+
+⭐ Open to Frontend Developer, React Developer, and Full Stack Developer opportunities.
