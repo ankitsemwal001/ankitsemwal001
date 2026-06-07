@@ -56,11 +56,7 @@ Currently seeking Junior Frontend Developer, React Developer, and Full Stack Dev
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitsemwal001&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsemwal001&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
