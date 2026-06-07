@@ -37,18 +37,7 @@ Currently seeking Junior Frontend Developer, React Developer, and Full Stack Dev
 
 ---
 
-## 🚀 Featured Projects
-
-### GoRafts – River Rafting Booking Platform
-- Developed a responsive rafting booking website.
-- Implemented dynamic UI using React and Tailwind CSS.
-- Integrated backend APIs for booking management.
-
-### Portfolio Website
-- Personal portfolio showcasing projects, skills, and experience.
-- Built with React and deployed on Netlify.
-
-### Additional Projects
+## Projects
 - Weather App
 - Task Manager
 - E-Commerce UI
